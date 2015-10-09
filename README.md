@@ -1,4 +1,4 @@
-# _Windows batch file that automates Handbrake processing_
+# _AutoHandBrake - a Windows batch file that automates Handbrake processing_
 #### By _**Garrett Carver**_
 _email: gariti@gmail.com_
 
