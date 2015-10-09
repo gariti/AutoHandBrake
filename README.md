@@ -1,8 +1,8 @@
-# _Windows Batch file that automates Handbrake processinng_
+# _Windows batch file that automates Handbrake processing_
 #### By _**Garrett Carver**
 _email: gariti@gmail.com_
 
-##### _Problem someone posted on [Reddit](https://www.reddit.com/r/VideoEditing/comments/3n61w2/does_any_compression_software_allow_you_to_start/). To solve this problem, I created a batch file that will run Handbrake on every video file in it's current directory.  Combined with windows task scheduler, this will automate this process completely_
+##### _someone posted this on [Reddit](https://www.reddit.com/r/VideoEditing/comments/3n61w2/does_any_compression_software_allow_you_to_start/) asking for help automating a task. To solve this problem, I created a batch file that will run Handbrake on every video file in it's current directory.  Combined with windows task scheduler, this will automate this process completely_
 
 ## Setup
 
