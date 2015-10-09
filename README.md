@@ -1,5 +1,5 @@
 # _Windows batch file that automates Handbrake processing_
-#### By _**Garrett Carver**
+#### By _**Garrett Carver**_
 _email: gariti@gmail.com_
 
 ##### _someone posted this on [Reddit](https://www.reddit.com/r/VideoEditing/comments/3n61w2/does_any_compression_software_allow_you_to_start/) asking for help automating a task. To solve this problem, I created a batch file that will run Handbrake on every video file in it's current directory.  Combined with windows task scheduler, this will automate this process completely_
@@ -10,11 +10,11 @@ _email: gariti@gmail.com_
 
 2. Open up AutoHandBrake.bat with a text editor
 
-3. Modify ' set HANDBRAKE_EXE_LOC=".\HandBrakeCLI.exe" ' and set it to the full path to 'HandBrakeCLI.exe'
+3. Modify ' set HANDBRAKE_EXE_LOC=".\HandBrakeCLI.exe" ' and set it to the full path to 'HandBrakeCLI.exe' EXAMPLE: _set HANDBRAKE_EXE_LOC="C:\HandBrakeCLI.exe"_
 
-4. (optional) Modify ' set HANDBRAKE_OPTIONS="" ' and add any commandline options that you need handbrake to use. See handbrakeCommands.txt for full list of options (note: there is no need to set the input & output, as the batch file already does this)
+4. (optional) Modify _set HANDBRAKE_OPTIONS=_ and add any commandline options that you need handbrake to use. See handbrakeCommands.txt for full list of options (note: there is no need to set the input & output, as the batch file already does this) EXAMPLE: _set HANDBRAKE_OPTIONS=-r 10_
 
-5. (optional) Modify ' set OUTPUT_NAME_MODIFIER=_handbrake ' to change the output file name modifier
+5. (optional) Modify set OUTPUT_NAME_MODIFIER=_hb to change the output file name modifier
 
 6. Place AutoHandBrake.bat in same directory where your video files live.
 
