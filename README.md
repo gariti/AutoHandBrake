@@ -6,7 +6,7 @@ _email: gariti@gmail.com_
 
 ## Setup
 
-1. Download AutoHandBrake [here](https://github.com/gariti/automate_handbrake/archive/AutoHandBrake.zip) and unzip all files somewhere on your local drive
+1. Download AutoHandBrake [here](https://github.com/gariti/AutoHandBrake/archive/master.zip) and unzip all files somewhere on your local drive
 
 2. Open up AutoHandBrake.bat with a text editor
 
