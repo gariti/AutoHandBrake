@@ -2,7 +2,7 @@
 #### By _**Garrett Carver**_
 _email: gariti@gmail.com_
 
-##### _someone posted this request on [Reddit](https://www.reddit.com/r/VideoEditing/comments/3n61w2/does_any_compression_software_allow_you_to_start/) wondering how they can completely automate video encoding using HandBrakee. The solution I created is a batch file that will run Handbrake on every video file in it's current directory.  Combined with windows task scheduler, this will automate this process completely_
+##### _someone posted this request on [Reddit](https://www.reddit.com/r/VideoEditing/comments/3n61w2/does_any_compression_software_allow_you_to_start/) wondering how they can completely automate video encoding using HandBrake. The solution I created is a batch file that will run Handbrake on every video file in it's current directory.  Combined with windows task scheduler, this will automate this process completely_
 
 ## Setup
 
